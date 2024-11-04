@@ -1,0 +1,13 @@
+---
+title: "732A96 - Advanced Machine Learning - Lab 4 - Group Report"
+author: 
+  - Qinyuan Qi(qinqi464)
+date: "`r Sys.Date()`"
+output: pdf_document
+---
+
+# Contribution: 
+Qinyuan Qi did all the work in this report.
+
+```{r child = 'Qinyuan_Qi.Rmd'}
+```
